@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635695061 source:c:\users\ivanr\onedrive\desktop\код\Лабка1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
